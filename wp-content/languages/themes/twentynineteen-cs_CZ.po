@@ -1,0 +1,525 @@
+# Translation of Themes - Twenty Nineteen in Czech
+# This file is distributed under the same license as the Themes - Twenty Nineteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-09 21:22:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Themes - Twenty Nineteen\n"
+
+#. Description of the theme
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr "Šablona Twenty Nineteen (2019) je navržena tak, aby ukázala sílu blokového editoru. Obsahuje vlastní styly pro všechny výchozí bloky a je navržena tak, aby v editoru vypadala, stejně jako na webu. Twenty Nineteen je navržena tak, aby byla přizpůsobitelná široké škále webů, ať už provozujete fotografický blog, zakládáte novou firmu nebo podporujete neziskovou organizaci. Obsahuje dostatek mezer a moderní písmo sans serif spárované s klasickým textem serif, zároveň je navržena tak, aby byla krásný na všech rozměrech obrazovky."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen"
+
+#: inc/block-patterns.php:195
+msgid "We help companies communicate with their customers."
+msgstr "Pomáháme společnostem komunikovat se svými zákazníky."
+
+#: inc/block-patterns.php:195
+msgid "Spark interest on social media"
+msgstr "Zajistěte zájem o sociální média"
+
+#: inc/block-patterns.php:192
+msgid "We help businesses grow."
+msgstr "Pomáháme podnikům růst."
+
+#: inc/block-patterns.php:192
+msgid "Activate new customers"
+msgstr "Aktivujte nové zákazníky"
+
+#: inc/block-patterns.php:189
+msgid "We help startups define (or refine) a clear brand identity."
+msgstr "Pomáháme startupům definovat (nebo vylepšit) jasnou identitu značky."
+
+#: inc/block-patterns.php:189
+msgid "Redefine brands"
+msgstr "Předefinujte značky"
+
+#: inc/block-patterns.php:179 inc/block-patterns.php:186
+msgid "What We Do"
+msgstr "Co děláme"
+
+#: inc/block-patterns.php:167
+msgid "Oddly enough, Doug Watson also grew up working alongside his parents at a family-owned restaurant in Queens, NY. He &nbsp;worked on digital campaigns for Fortune 500 Companies before joining Eva Green Consulting."
+msgstr "Kupodivu Doug Watson také vyrůstal v práci po boku svých rodičů v rodinné restauraci v Queensu v New Yorku. Před nástupem do společnosti Eva Green Consulting pracoval na digitálních kampaních pro společnosti Fortune 500."
+
+#: inc/block-patterns.php:164
+msgid "Doug Watson"
+msgstr "Doug Watson"
+
+#: inc/block-patterns.php:159
+msgid "Eva Young grew up working alongside her parents at their restaurant in Queens, NY. She opened Eva Young Consulting in 2014 to help small businesses like her parents’ restaurant adapt to the digital age."
+msgstr "Eva Young vyrostla v práci po boku svých rodičů v jejich restauraci v Queensu v New Yorku. V roce 2014 otevřela společnost Eva Young Consulting, aby pomohla malým podnikům, jako je restaurace jejích rodičů, přizpůsobit se digitálnímu věku."
+
+#: inc/block-patterns.php:156
+msgid "Eva Young"
+msgstr "Eva Young"
+
+#: inc/block-patterns.php:145 inc/block-patterns.php:152
+msgid "Team"
+msgstr "Tým"
+
+#: inc/block-patterns.php:131
+msgid "Content Strategy"
+msgstr "Obsahová strategie"
+
+#: inc/block-patterns.php:126
+msgid "Copywriting"
+msgstr "Copywriting"
+
+#: inc/block-patterns.php:121
+msgid "Marketing"
+msgstr "Marketing"
+
+#: inc/block-patterns.php:114
+msgid "Social Media"
+msgstr "Sociální média"
+
+#: inc/block-patterns.php:109
+msgid "Mobile"
+msgstr "Mobilní"
+
+#: inc/block-patterns.php:104
+msgid "Website Design"
+msgstr "Design webových stránek"
+
+#: inc/block-patterns.php:103 inc/block-patterns.php:108
+#: inc/block-patterns.php:113 inc/block-patterns.php:120
+#: inc/block-patterns.php:125 inc/block-patterns.php:130
+#: inc/block-patterns.php:155 inc/block-patterns.php:163
+msgid "Gradient"
+msgstr "Přechod"
+
+#: inc/block-patterns.php:92 inc/block-patterns.php:98
+msgid "Services"
+msgstr "Služby"
+
+#: inc/block-patterns.php:80
+msgid "Contact Us"
+msgstr "Kontaktujte nás"
+
+#: inc/block-patterns.php:74
+msgid "example@example.com"
+msgstr "example@example.cz"
+
+#: inc/block-patterns.php:74
+msgid "(555) 555-5555"
+msgstr "+420 123 456 789"
+
+#: inc/block-patterns.php:69
+msgid "New York, New York 10023"
+msgstr "New York, New York 10023"
+
+#: inc/block-patterns.php:69
+msgid "20 Cooper Avenue"
+msgstr "20 Cooper Avenue"
+
+#: inc/block-patterns.php:58 inc/block-patterns.php:64
+msgid "Get In Touch"
+msgstr "Být v kontaktu"
+
+#: inc/block-patterns.php:46
+msgid "Learn More"
+msgstr "Zjistit více"
+
+#: inc/block-patterns.php:42
+msgid "Eva Young Consulting was founded in 2014 to meet the needs of small businesses in the San Francisco Bay Area. We help startups define a clear brand identity and digital strategy that will carry them through their financing rounds and scale as their business grows. Discover how we can boost your brand with a unique and powerful digital marketing strategy."
+msgstr "Eva Young Consulting byla založena v roce 2014, aby uspokojila potřeby malých podniků v oblasti San Francisco Bay Area. Pomáháme začínajícím podnikům definovat jasnou identitu značky a digitální strategii, která je provede jejich finančními koly a rozsahem, jak bude jejich podnikání růst. Objevte, jak můžeme posílit vaši značku pomocí jedinečné a výkonné digitální marketingové strategie."
+
+#: inc/block-patterns.php:39
+msgid "Advocating for Businesses and Entrepreneurs since 2014"
+msgstr "Advokátní kancelář pro podnikatele a podnikatele od roku 2014"
+
+#: inc/block-patterns.php:33
+msgid "About"
+msgstr "O mně"
+
+#: classes/class-twentynineteen-walker-comment.php:98
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Váš komentář čeká na schválení. Toto je náhled, váš komentář bude viditelný až po schválení."
+
+#: functions.php:154
+msgid "Dark Blue"
+msgstr "Tmavě modrá"
+
+#: functions.php:149
+msgid "Blue"
+msgstr "Modrá"
+
+#. translators: %s: Parent post link.
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Publikováno v</span><span class=\"post-title\">%s</span>"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publikováno v</span><br><span class=\"post-title\">%title</span>"
+
+#: template-parts/content/content.php:18
+#: template-parts/content/content-excerpt.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Doporučujeme"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:40 inc/back-compat.php:55 inc/back-compat.php:76
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Šablona Twenty Nineteen vyžaduje alespoň WordPress 4.7. Aktuálně používáte verzi %s. Po aktualizaci tuto akci opakujte."
+
+#: inc/template-functions.php:143
+msgid "Back"
+msgstr "Zpět"
+
+#: inc/template-functions.php:136
+msgid "More"
+msgstr "Více"
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "Použít filtr na náhledový obrázek pomocí hlavní barvy"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "Nastavte si vlastní barvu pro tlačítka, odkazy, náhledové obrázky, atd."
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "Vlastní"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "Výchozí"
+
+#: functions.php:169
+msgid "White"
+msgstr "Bílá"
+
+#: functions.php:164
+msgid "Light Gray"
+msgstr "Světle šedá"
+
+#: functions.php:159
+msgid "Dark Gray"
+msgstr "Tmavě šedá"
+
+#: functions.php:137
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:136
+msgid "Huge"
+msgstr "Obrovské"
+
+#: functions.php:131
+msgid "L"
+msgstr "L"
+
+#: functions.php:130
+msgid "Large"
+msgstr "Velká"
+
+#: functions.php:125
+msgid "M"
+msgstr "M"
+
+#: functions.php:124
+msgid "Normal"
+msgstr "Normální"
+
+#: functions.php:119
+msgid "S"
+msgstr "S"
+
+#: functions.php:118
+msgid "Small"
+msgstr "Střední"
+
+#: functions.php:60 footer.php:37
+msgid "Footer Menu"
+msgstr "Menu v zápatí"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Původní velikost"
+
+#: image.php:56
+msgid "Page"
+msgstr "Stránka"
+
+#: functions.php:196
+msgid "Add widgets here to appear in your footer."
+msgstr "Zde přidejte widgety, které se zobrazí v zápatí."
+
+#: template-parts/footer/footer-widgets.php:12 functions.php:194
+msgid "Footer"
+msgstr "Zápatí"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Primární barva"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "Žádné komentáře"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d komentář"
+msgstr[1] "%d komentáře"
+msgstr[2] "%d komentářů"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Zobrazit více příspěvků"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Autor %s"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "Hlavní menu"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title.
+#: template-parts/content/content.php:36
+#: template-parts/content/content-single.php:27 functions.php:225
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Pokračovat ve čtení<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content.php:49
+#: template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40 image.php:52
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Požadovaný obsah se na webu bohužel nenachází. Můžete ale zkusit vyhledávání konkrétního klíčového slova."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Omlouváme se, ale zadaný výraz nebyl na webu nalezen. Zkuste prosím hledat znovu nějaké jiné klíčové slovo."
+
+#. translators: %s: Link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Jste připraveni publikovat svůj první příspěvek? <a href=\"%s\">Začněte zde</a>."
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Předchozí příspěvek:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Předchozí příspěvek"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Následující příspěvek:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Následující příspěvek"
+
+#: search.php:22
+msgid "Search results for: "
+msgstr "Výsledky vyhledávání pro:"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "Starší příspěvky"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "Novější příspěvky"
+
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "Štítky:"
+
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "Publikováno v"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Napsat komentář<span class=\"screen-reader-text\"> pro %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Autor"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "Archiv:"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "%s Archiv:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "Archiv typu:"
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "Archiv pro den:"
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "Archiv pro měsíc:"
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "Archiv pro rok:"
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "Archiv autora:"
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "Archiv štítku:"
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "Archiv rubriky:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:32 inc/template-tags.php:120
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Upravit <span class=\"screen-reader-text\">%s</span>"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Přejít k obsahu webu"
+
+#: template-parts/header/site-branding.php:46 functions.php:61
+msgid "Social Links Menu"
+msgstr "Menu pro sociální sítě"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Primární"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "Používáme %s (v češtině)."
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#: comments.php:96
+msgid "Next"
+msgstr "Následující"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "Předchozí"
+
+#: comments.php:92 comments.php:95 comments.php:96
+msgid "Comments"
+msgstr "Komentáře"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s reakce na &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s reakce na &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s reakcí na &bdquo;%2$s&ldquo;"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "1 komentář u &bdquo;%s&ldquo;"
+
+#: comments.php:35 comments.php:105 comments.php:107
+msgid "Leave a comment"
+msgstr "Napsat komentář"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "Připojte se k diskuzi"
+
+#: classes/class-twentynineteen-walker-comment.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Komentář čeká na schválení."
+
+#: classes/class-twentynineteen-walker-comment.php:89
+msgid "Edit"
+msgstr "Upravit"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s (%2$s)"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">napsal:</span>"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Patrně jste chtěli zobrazit stránku, která se na webu bohužel nenachází. Můžete ale zkusit vyhledávání konkrétního klíčového slova."
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Omlouváme se, ale stránka nebyla nalezena."
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://cs.wordpress.org/themes/twentynineteen/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "Vývojáři WordPressu (a překladatelé)"
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://cs.wordpress.org/"

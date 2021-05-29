@@ -1,0 +1,635 @@
+# Translation of Themes - Twenty Twenty in Czech
+# This file is distributed under the same license as the Themes - Twenty Twenty package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-27 08:16:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Themes - Twenty Twenty\n"
+
+#. Description of the theme
+msgid "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors."
+msgstr "Šablona Twenty Twenty (2020) je navržena tak, aby plně využila flexibilitu blokového editoru. Organizace a firmy mají možnost vytvářet dynamické vstupní stránky s nekonečnými možnostmi rozložení s pomocí bloků skupin a sloupců. Díky centrovanému sloupci pro obsah a pečlivě vyladěná typografii je tato šablona perfektní také pro tradiční blogy. Kompletní styly editoru vám zobrazí finální vzhled vašeho obsahu ještě než jej publikujete. Web můžete také upravit dle vašich preferencí pomocí úpravy barev pozadí a  zvýraznění v nabídce Přizpůsobení. Barvy částí stránky se nastavují automaticky dle barev, které vyberete a zajistí tak vysoký kontrast pro vaše návštěvníky."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Twenty"
+msgstr "Twenty Twenty"
+
+#: classes/class-twentytwenty-customize.php:126
+msgctxt "color"
+msgid "Custom"
+msgstr "Vlastní"
+
+#: classes/class-twentytwenty-customize.php:125
+msgctxt "color"
+msgid "Default"
+msgstr "Výchozí"
+
+#: inc/block-patterns.php:197
+msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political, and philosophical issues are intrinsic to our program. As visitor, you are invited to guided tours artist talks, lectures, film screenings, and other events with free admission."
+msgstr "Se sedmi podlažími nápadné architektury UMoMA ukazuje výstavy mezinárodního současného umění, někdy spolu s uměleckými historickými retrospektivami. Náš program zahrnuje vlastní existenční, politické a filozofické problémy. Jako návštěvník jste zváni na prohlídky s průvodcem, přednášky, promítání filmů a další akce s průvodcem s průvodcem zdarma."
+
+#: inc/block-patterns.php:194
+msgid "The Premier Destination for Modern Art in Sweden"
+msgstr "Hlavní destinace moderního umění ve Švédsku"
+
+#: inc/block-patterns.php:187
+msgid "Introduction"
+msgstr "Úvod"
+
+#: inc/block-patterns.php:157 inc/block-patterns.php:171
+msgid "August 1 — December 1"
+msgstr "1. srpna - 1. prosince"
+
+#: inc/block-patterns.php:151 inc/block-patterns.php:165
+msgid "Abstract Rectangles"
+msgstr "Abstraktní obdélníky"
+
+#: inc/block-patterns.php:142
+msgid "Featured Content"
+msgstr "Doporučený obsah"
+
+#: inc/block-patterns.php:128
+msgid "<em>Price</em><br>Included"
+msgstr "<em>Cena</em><br>Zahrnuto"
+
+#: inc/block-patterns.php:123
+msgid "<em>Location</em><br>Exhibit Hall B"
+msgstr "<em>Místo</em><br>Výstavní hala B"
+
+#: inc/block-patterns.php:118
+msgid "<em>Dates</em><br>Aug 1 — Dec 1"
+msgstr "<em>Data</em><br>1. srpna - 1. prosince"
+
+#: inc/block-patterns.php:108
+msgid "Event Details"
+msgstr "Podrobnosti události"
+
+#: inc/block-patterns.php:93
+msgid "Shop Now"
+msgstr "Kupuj teď"
+
+#: inc/block-patterns.php:89
+msgid "An awe-inspiring collection of books, prints, and gifts from our exhibitions."
+msgstr "Úžasná sbírka knih, tisků a dárků z našich výstav."
+
+#: inc/block-patterns.php:86
+msgid "The Store"
+msgstr "Obchod"
+
+#: inc/block-patterns.php:74
+msgid "Award-winning exhibitions featuring internationally-renowned artists."
+msgstr "Oceněné výstavy představující mezinárodně uznávané umělce."
+
+#: inc/block-patterns.php:71
+msgid "The Museum"
+msgstr "Muzeum"
+
+#: inc/block-patterns.php:61
+msgid "Double Call to Action"
+msgstr "Dvojitá výzva k akci"
+
+#: inc/block-patterns.php:48
+msgid "Become a Member"
+msgstr "Stát se členem"
+
+#: inc/block-patterns.php:42
+msgid "Support the Museum and Get Exclusive Offers"
+msgstr "Podpořte muzeum a získejte exkluzivní nabídky"
+
+#: inc/block-patterns.php:33
+msgid "Call to Action"
+msgstr "Výzva k akci"
+
+#: template-parts/modal-menu.php:73
+msgctxt "menu"
+msgid "Mobile"
+msgstr "Mobil"
+
+#: template-parts/modal-menu.php:48
+msgctxt "menu"
+msgid "Expanded"
+msgstr "Rozšířený"
+
+#: header.php:88
+msgctxt "menu"
+msgid "Horizontal"
+msgstr "Vodorovně"
+
+#: header.php:53 header.php:157
+msgctxt "toggle text"
+msgid "Search"
+msgstr "Hledat"
+
+#: functions.php:498
+msgctxt "color"
+msgid "Secondary"
+msgstr "Sekundární"
+
+#: functions.php:493
+msgctxt "color"
+msgid "Primary"
+msgstr "Primární"
+
+#: index.php:51
+msgid "Nothing Found"
+msgstr "Nic nenalezeno"
+
+#: classes/class-twentytwenty-customize.php:246
+msgid "Show author bio"
+msgstr "Zobrazit autorův životopis"
+
+#: template-parts/entry-author-bio.php:29
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr "Zobrazit archiv <span aria-hidden=\"true\">&rarr;</span>"
+
+#: inc/starter-content.php:39
+msgctxt "Theme starter content"
+msgid "The New UMoMA Opens its Doors"
+msgstr "Otevírá se nové UMoMA"
+
+#: inc/template-tags.php:396
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr "V"
+
+#: inc/starter-content.php:151
+msgid "Join the Club"
+msgstr "Stát se členem"
+
+#: inc/block-patterns.php:45 inc/starter-content.php:148
+msgid "Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually."
+msgstr "Členové získají přístup k exkluzivním exponátům a nabídkám. Naše členství stojí 1 999,99,-Kč a je účtováno ročně."
+
+#: inc/starter-content.php:145
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr "Staňte se členem a získejte exkluzivní nabídky!"
+
+#: inc/starter-content.php:137
+msgid "The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize."
+msgstr "Výstavy tvoří UMoMA ve spolupráci s umělci a muzei po celém světě a často přitahují mezinárodní pozornost. UMoMA obdrželo zvláštní ocenění Evropského muzea roku a bylo jedním z nejlepších kandidátů na ocenění švédského muzea roku a také na cenu muzea Rady Evropy."
+
+#: inc/starter-content.php:134
+msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission"
+msgstr "Se sedmi podlahami působivé architektury se UMoMA vyznačuje výstavami současného mezinárodního umění, někdy i s uměleckou historickou retrospektivou. K našemu programu patří existenciální, politické a filozofické otázky. Jste zváni na prohlídky komentovaných výstav, přednášek, filmová promítání a spousty dalších akcí s bezplatným vstupem"
+
+#: inc/starter-content.php:130
+msgid "&#8220;Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.&#8221;"
+msgstr "„Cyborgové, jak ustanovila filozofka Donna Haraway, nejsou důstojní. Nepamatují si vesmír.“"
+
+#: inc/starter-content.php:114
+msgid "From Signac to Matisse"
+msgstr "Od Signaca po Matisse"
+
+#: inc/block-patterns.php:168 inc/starter-content.php:99
+msgid "The Life I Deserve"
+msgstr "Život, který si zasloužím"
+
+#: inc/starter-content.php:85 inc/starter-content.php:117
+msgid "October 1 -- December 1"
+msgstr "1. října – 1. prosince"
+
+#: inc/starter-content.php:82
+msgid "Theatre of Operations"
+msgstr "Bojiště"
+
+#: inc/block-patterns.php:78 inc/block-patterns.php:160
+#: inc/block-patterns.php:174 inc/starter-content.php:73
+#: inc/starter-content.php:88 inc/starter-content.php:105
+#: inc/starter-content.php:120
+msgid "Read More"
+msgstr "Více"
+
+#: inc/starter-content.php:70 inc/starter-content.php:102
+msgid "August 1 -- December 1"
+msgstr "1. srpna – 1. prosince"
+
+#: inc/block-patterns.php:154 inc/starter-content.php:67
+msgid "Works and Days"
+msgstr "Práce a dny"
+
+#: inc/starter-content.php:56
+msgid "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+msgstr "Nová destinace moderního umění na severu Švédska. Otevřeno denně v letních měsících od 10:00 do 18:00."
+
+#: inc/starter-content.php:48
+msgid "The New UMoMA Opens its Doors"
+msgstr "Otevírá se nové UMoMA"
+
+#: classes/class-twentytwenty-customize.php:395
+msgid "Overlay Opacity"
+msgstr "Míra průhlednosti"
+
+#: classes/class-twentytwenty-customize.php:375
+msgid "The color used for the text in the overlay."
+msgstr "Barva použitá pro text v překrytí."
+
+#: classes/class-twentytwenty-customize.php:374
+msgid "Overlay Text Color"
+msgstr "Barva překryvu textu"
+
+#: classes/class-twentytwenty-customize.php:353
+msgid "The color used for the overlay. Defaults to the accent color."
+msgstr "Barva použitá pro překrytí. Standardně se použije barva zvýraznění."
+
+#: classes/class-twentytwenty-customize.php:352
+msgid "Overlay Background Color"
+msgstr "Překrytí barvou pozadí"
+
+#: classes/class-twentytwenty-customize.php:283
+msgid "Settings for the \"Cover Template\" page template. Add a featured image to use as background."
+msgstr "Nastavení pro šablonu stránky „titulní šablona“. Přidejte náhledový obrázek, který bude použit jako pozadí."
+
+#: classes/class-twentytwenty-customize.php:183
+msgid "Apply a custom color for links, buttons, featured images."
+msgstr "Použijte vlastní barvy pro odkazy, tlačítka a náhledové obrázky."
+
+#: classes/class-twentytwenty-customize.php:123
+msgid "Primary Color"
+msgstr "Základní barva"
+
+#: template-parts/modal-search.php:20 searchform.php:24
+msgid "Search for:"
+msgstr "Výsledky vyhledávání:"
+
+#: index.php:101
+msgid "search again"
+msgstr "hledat znovu"
+
+#. translators: %s: Number of search results.
+#: index.php:39
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] "Byl nalezen %s výsledek."
+msgstr[1] "Byly nalezeny %s výsledky."
+msgstr[2] "Bylo nalezeno %s výsledků."
+
+#. translators: %s: HTML character for up arrow.
+#: footer.php:49
+msgid "Up %s"
+msgstr "Nahoru %s"
+
+#. translators: %s: HTML character for up arrow.
+#: footer.php:43
+msgid "To the top %s"
+msgstr "Nahoru %s"
+
+#. translators: Copyright date format, see
+#. https://www.php.net/manual/datetime.format.php
+#: footer.php:25
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#: 404.php:24
+msgid "404 not found"
+msgstr "Chyba 404 - nenalezeno"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Šablona na celou šířku webu"
+
+#: template-parts/pagination.php:25
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr "Starší <span class=\"nav-short\">příspěvky</span>"
+
+#: template-parts/pagination.php:21
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr "Novější <span class=\"nav-short\">příspěvky</span>"
+
+#: template-parts/navigation.php:25
+msgid "Post"
+msgstr "Příspěvek"
+
+#: template-parts/modal-search.php:26
+msgid "Close search"
+msgstr "Zavřít vyhledávání"
+
+#: template-parts/modal-menu.php:117
+msgid "Expanded Social links"
+msgstr "Rozšířené odkazy sociálních sítí"
+
+#: template-parts/modal-menu.php:21
+msgid "Close Menu"
+msgstr "Zavřít menu"
+
+#: template-parts/footer-menus-widgets.php:57
+msgid "Social links"
+msgstr "Odkazy sociálních sítí"
+
+#: template-parts/footer-menus-widgets.php:37
+msgid "Footer"
+msgstr "Zápatí"
+
+#. translators: %s: Author name.
+#: template-parts/entry-author-bio.php:20 inc/template-tags.php:357
+msgid "By %s"
+msgstr "Autor: %s"
+
+#: template-parts/content.php:48 template-parts/content-cover.php:138
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: template-parts/content.php:48 template-parts/content-cover.php:138
+msgid "Page"
+msgstr "Stránka"
+
+#: template-parts/content-cover.php:88
+msgid "Scroll Down"
+msgstr "Posunout dolů"
+
+#: searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hledat"
+
+#: searchform.php:25
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Hledat &hellip;"
+
+#: index.php:48
+msgid "We could not find any results for your search. You can give it another try through the search form below."
+msgstr "Pro vámi zadaný text nebylo nic nalezeno. Můžete to zkusit znovu pomocí níže uvedeného vyhledávacího formuláře."
+
+#: index.php:32
+msgid "Search:"
+msgstr "Vyhledávání:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:207
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Upravit <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:448
+msgid "Sticky post"
+msgstr "Zvýrazněný příspěvek"
+
+#: inc/template-tags.php:410
+msgid "Tags"
+msgstr "Štítky"
+
+#: template-parts/content-cover.php:70 template-parts/entry-header.php:36
+#: inc/template-tags.php:392
+msgid "Categories"
+msgstr "Rubriky"
+
+#: inc/template-tags.php:374
+msgid "Post date"
+msgstr "Datum příspěvku"
+
+#: inc/template-tags.php:350
+msgid "Post author"
+msgstr "Autor příspěvku"
+
+#: inc/starter-content.php:197
+msgid "Social Links Menu"
+msgstr "Menu pro sociální sítě"
+
+#: inc/starter-content.php:177 inc/starter-content.php:187
+msgid "Primary"
+msgstr "Primární"
+
+#: header.php:76 header.php:137
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/content.php:36
+msgid "Continue reading"
+msgstr "Pokračovat ve čtení"
+
+#: functions.php:550
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:549
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr "Větší"
+
+#: functions.php:544
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:543
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr "Velké"
+
+#: functions.php:538
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:537
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr "Běžné"
+
+#: functions.php:532
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:531
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr "Malé"
+
+#: functions.php:516
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: functions.php:503
+msgid "Subtle Background"
+msgstr "Jemné pozadí"
+
+#: functions.php:488
+msgid "Accent Color"
+msgstr "Barva zvýraznění"
+
+#: functions.php:383
+msgid "Widgets in this area will be displayed in the second column in the footer."
+msgstr "Widgety v této oblasti se zobrazí ve druhém sloupci zápatí."
+
+#: functions.php:381
+msgid "Footer #2"
+msgstr "Zápatí č. 2"
+
+#: functions.php:371
+msgid "Widgets in this area will be displayed in the first column in the footer."
+msgstr "Widgety v této oblasti se zobrazí v prvním sloupci zápatí."
+
+#: functions.php:369
+msgid "Footer #1"
+msgstr "Zápatí č. 1"
+
+#: functions.php:344
+msgid "Skip to the content"
+msgstr "Přejít k obsahu"
+
+#: functions.php:266
+msgid "Social Menu"
+msgstr "Menu sociálních sítí"
+
+#: functions.php:265
+msgid "Footer Menu"
+msgstr "Menu v zápatí"
+
+#: functions.php:264
+msgid "Mobile Menu"
+msgstr "Mobilní menu"
+
+#: functions.php:263
+msgid "Desktop Expanded Menu"
+msgstr "Rozšířené menu pro počítač"
+
+#: functions.php:262
+msgid "Desktop Horizontal Menu"
+msgstr "Vodorovné menu pro počítač"
+
+#: footer.php:33
+msgid "Powered by WordPress"
+msgstr "Používáme WordPress (v češtině)"
+
+#: comments.php:127
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#: comments.php:88
+msgid "Comments"
+msgstr "Komentáře"
+
+#: comments.php:75
+msgid "Older Comments"
+msgstr "Starší komentáře"
+
+#: comments.php:74
+msgid "Newer Comments"
+msgstr "Novější komentáře"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s reakce na &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s reakce na &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s reakcí na &bdquo;%2$s&ldquo;"
+
+#. translators: %s: Post title.
+#: comments.php:37
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "1 komentář u &bdquo;%s&ldquo;"
+
+#: comments.php:34
+msgid "Leave a comment"
+msgstr "Napsat komentář"
+
+#: classes/class-twentytwenty-walker-page.php:107 inc/template-tags.php:558
+msgid "Show sub menu"
+msgstr "Zobrazit podmenu"
+
+#. translators: %d: ID of a post.
+#: classes/class-twentytwenty-walker-page.php:70
+msgid "#%d (no title)"
+msgstr "č.%d (bez názvu)"
+
+#: classes/class-twentytwenty-walker-comment.php:133
+msgid "By Post Author"
+msgstr "Od autora příspěvku"
+
+#: classes/class-twentytwenty-walker-comment.php:98
+msgid "Your comment is awaiting moderation."
+msgstr "Komentář čeká na schválení."
+
+#: classes/class-twentytwenty-walker-comment.php:82
+msgid "Edit"
+msgstr "Upravit"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentytwenty-walker-comment.php:68
+msgid "%1$s at %2$s"
+msgstr "%1$s (%2$s)"
+
+#: classes/class-twentytwenty-walker-comment.php:56
+msgid "says:"
+msgstr "&#32;"
+
+#: classes/class-twentytwenty-customize.php:396
+msgid "Make sure that the contrast is high enough so that the text is readable."
+msgstr "Ujistěte se, že je dostatečně vysoký kontrast, aby byl text čitelný."
+
+#: classes/class-twentytwenty-customize.php:306
+msgid "Creates a parallax effect when the visitor scrolls."
+msgstr "Vytvoří paralaxní efekt, když bude návštěvník rolovat stránkou."
+
+#: classes/class-twentytwenty-customize.php:305
+msgid "Fixed Background Image"
+msgstr "Statický obrázek na pozadí"
+
+#. Template Name of the theme
+#: classes/class-twentytwenty-customize.php:281
+msgid "Cover Template"
+msgstr "Titulní šablona"
+
+#: classes/class-twentytwenty-customize.php:270
+msgid "Summary"
+msgstr "Shrnutí"
+
+#: classes/class-twentytwenty-customize.php:269
+msgid "Full text"
+msgstr "Celý text"
+
+#: classes/class-twentytwenty-customize.php:267
+msgid "On archive pages, posts show:"
+msgstr "V archivech zobrazovat příspěvkům:"
+
+#: classes/class-twentytwenty-customize.php:225
+msgid "Show search in header"
+msgstr "Zobrazit vyhledávání v záhlaví"
+
+#: classes/class-twentytwenty-customize.php:202
+msgid "Theme Options"
+msgstr "Možnosti šablony"
+
+#: classes/class-twentytwenty-customize.php:101
+msgid "Header &amp; Footer Background Color"
+msgstr "Barva pozadí v záhlaví a v zápatí"
+
+#: classes/class-twentytwenty-customize.php:82
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "Změní měřítko loga na poloviční nahranou velikost, díky čemuž bude na obrazovkách s vysokým rozlišením velmi ostré."
+
+#: classes/class-twentytwenty-customize.php:81
+msgid "Retina logo"
+msgstr "Retina logo"
+
+#: 404.php:19
+msgid "The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place."
+msgstr "Vámi hledaná stránka nebyla nalezena. Možná byla odebrána, přejmenována, nebo neexistuje."
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr "Stránka nebyla nalezena"
+
+#. Author URI of the theme
+#: footer.php:32
+msgid "https://wordpress.org/"
+msgstr "https://cs.wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "Vývojáři WordPressu (a překladatelé)"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentytwenty/"
+msgstr "https://cs.wordpress.org/themes/twentytwenty/"

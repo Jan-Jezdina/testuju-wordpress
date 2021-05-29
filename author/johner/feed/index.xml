@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>johner &#8211; Jan Jezdina</title>
+	<atom:link href="/https://jan-jezdina.github.io/testuju-wordpress/author/johner/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://jan-jezdina.github.io/testuju-wordpress</link>
+	<description>Další web používající WordPress</description>
+	<lastBuildDate>Sat, 29 May 2021 09:30:55 +0000</lastBuildDate>
+	<language>cs</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Ahoj všichni!</title>
+		<link>/https://jan-jezdina.github.io/testuju-wordpress/2021/05/29/ahoj-vsichni/</link>
+					<comments>/https://jan-jezdina.github.io/testuju-wordpress/2021/05/29/ahoj-vsichni/#comments</comments>
+		
+		<dc:creator><![CDATA[johner]]></dc:creator>
+		<pubDate>Sat, 29 May 2021 09:30:55 +0000</pubDate>
+				<category><![CDATA[Nezařazené]]></category>
+		<guid isPermaLink="false">/https://jan-jezdina.github.io/testuju-wordpress/?p=1</guid>
+
+					<description><![CDATA[Vítejte ve WordPressu. Toto je váš první příspěvek. Můžete ho upravit, nebo smazat a postupně pak začít s tvorbou vlastního webu.]]></description>
+										<content:encoded><![CDATA[
+<p>Vítejte ve WordPressu. Toto je váš první příspěvek. Můžete ho upravit, nebo smazat a postupně pak začít s tvorbou vlastního webu.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://jan-jezdina.github.io/testuju-wordpress/2021/05/29/ahoj-vsichni/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

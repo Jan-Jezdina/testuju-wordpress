@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentáře: Ahoj všichni!	</title>
+	<atom:link href="https://jan-jezdina.github.io/testuju-wordpress/ahoj-vsichni/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jan-jezdina.github.io/testuju-wordpress/ahoj-vsichni/</link>
+	<description>Český bagrista</description>
+	<lastBuildDate>Sat, 29 May 2021 09:30:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Od: WordPress komentátor		</title>
+		<link>https://jan-jezdina.github.io/testuju-wordpress/ahoj-vsichni/#comment-1</link>
+
+		<dc:creator><![CDATA[WordPress komentátor]]></dc:creator>
+		<pubDate>Sat, 29 May 2021 09:30:55 +0000</pubDate>
+		<guid isPermaLink="false">https://jan-jezdina.github.io/testuju-wordpress/?p=1#comment-1</guid>
+
+					<description><![CDATA[Zdravím, tohle je komentář.
+Chcete-li začít se schvalováním, úpravami a mazáním komentářů, pak si prohlédněte sekci Komentáře na nástěnce.
+Profilové obrázky komentujících vám přináší služba &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Zdravím, tohle je komentář.<br />
+Chcete-li začít se schvalováním, úpravami a mazáním komentářů, pak si prohlédněte sekci Komentáře na nástěnce.<br />
+Profilové obrázky komentujících vám přináší služba <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,275 @@
+/*
+Theme Name: Construction Landing Page
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.site-header .site-branding {
+    float: right;
+}
+
+.main-navigation {
+    float: left;
+    margin-left: 45px;
+    margin-right: 0;
+}
+
+.main-navigation ul li,
+.main-navigation ul li:first-child {
+    float: right;
+    margin-left: 40px;
+}
+
+.main-navigation ul ul li,
+.main-navigation ul ul li:first-child {
+    float: none;
+}
+
+.main-navigation ul {
+    padding: 0;
+}
+
+.main-navigation ul li:last-child {
+    margin-left: 0;
+}
+
+.main-navigation ul ul {
+    display: none;
+    left: auto;
+    right: 0;
+}
+
+.main-navigation ul li:hover > ul {
+    display: block;
+}
+
+.main-navigation ul ul ul {
+    display: none;
+    left: auto;
+    right: 100%;
+}
+
+.main-navigation ul ul li:hover > ul {
+    /*display: block;*/
+}
+
+.main-navigation ul ul li,
+.main-navigation ul ul li:first-child {
+    margin-left: 0;
+}
+
+.site-header .tel-link .fa {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.banner .col {
+    float: right;
+}
+
+.banner form::after {
+    right: -175px;
+    left: auto;
+    transform: rotateY(180deg);
+}
+
+.wpcf7-form {
+    direction: rtl;
+}
+
+.banner form {
+    margin-left: 0;
+    padding: 31px 59px 24px 53px;
+    margin-right: 95px;
+}
+
+.about .col,
+.our-projects .col,
+.our-services .col,
+.our-clients .col,
+.testimonial .col {
+    float: right;
+}
+
+.testimonial .col blockquote::after {
+    left: auto;
+    right: 37px;
+}
+
+.testimonial .col blockquote {
+    background-position: calc(100% - 37px) 30px;
+}
+
+.testimonial .col cite .img-holder {
+    float: right;
+    margin-right: 0;
+    margin-left: 17px;
+}
+
+.promotional-block2 form::after {
+    left: -85px;
+    right: auto;
+    transform: rotateY(180deg);
+}
+
+.site-footer .column {
+    float: right;
+}
+
+.widget.widget_construction_landing_page_recent_post ul li .post-thumbnail,
+.widget.widget_construction_landing_page_popular_post ul li .post-thumbnail {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.site-footer .widget ul li::before{
+	margin-right: 0;
+	margin-left: 5px;
+	display: inline-block;
+	float: right;
+	content: "\f104";
+}
+
+.widget.widget_archive ul li a, .widget.widget_categories ul li a{
+	float: right;
+}
+
+.site-footer .widget.widget_construction_landing_page_social_links ul li{
+	float: right;
+	margin-left: 15px;
+	margin-right: 0;
+}
+
+.widget .search-form label,
+.widget .search-form input[type="search"], .widget .search-form input[type="text"],
+.site-footer .site-info .copyright{
+	float: right;
+}
+
+.widget .search-form input[type="submit"],
+.site-footer .site-info .by{
+	float: left;
+}
+
+.site-footer .site-info a{
+	display: inline-block;
+}
+
+#primary .post .post-thumbnail, .search #primary .page .post-thumbnail{
+	float: right;
+	margin-right: 0;
+	margin-left: 30px;
+}
+
+#primary .post .entry-footer .btn-readmore, .search #primary .page .entry-footer .btn-readmore{
+	float: right;
+}
+
+#primary .post .entry-meta span{
+	margin-right: 0;
+	padding-right: 0;
+	padding-left: 8px;
+	margin-left: 8px;
+	border-right: 0;
+	border-left: 1px solid #999;
+}
+
+.page-header{
+	float: right;
+}
+
+#crumbs{
+	float: left;
+}
+
+#crumbs span,
+#crumbs a{
+	display: inline-block;
+}
+
+.edit-link{
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+#secondary .widget.widget_construction_landing_page_social_links ul li{
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.widget.widget_archive ul, .widget.widget_categories ul{
+	text-align: left;
+}
+
+.widget.widget_tag_cloud .tagcloud a{
+	float: right;
+}
+
+#primary .author .img-holder{
+	float: right;
+}
+
+.comments-area .comment-list .comment-meta .comment-author img{
+	float: right;
+	margin-right: 0;
+	margin-left: 27px;
+}
+
+.comments-area .comment-list .comment-body .reply{
+	left: 0;
+	right: auto;
+}
+
+.search .top-section .search-form label{
+	float: right;
+}
+
+.search .top-section .search-form input[type="submit"]{
+	float: left;
+}
+
+.promotional-block2 form input[type="submit"]{
+	padding: 0 0 27px 10px;
+}
+
+@media only screen and (max-width: 991px){
+    .mobile-header .mobile-menu{
+        left: 100%;
+        -webkit-transform: translate(0, 0);
+        -moz-transform: translate(0, 0);
+        transform: translate(0, 0);
+    }
+
+    body.menu-open .mobile-header .mobile-menu{
+        -webkit-transform: translate(-320px, 0);
+        -moz-transform: translate(-320px, 0);
+        transform: translate(-320px, 0);
+    }
+
+    .mobile-menu .primary-navigation ul li .open-submenu{
+        right: auto;
+        left: 0;
+    }
+
+    .mobile-menu .primary-navigation ul li svg{
+        margin-right: 0;
+        margin-left: 10px;
+    }
+
+    .mobile-header .mobile-menu .close-mobile-menu{
+        right: auto;
+        left: 20px;
+    }
+}

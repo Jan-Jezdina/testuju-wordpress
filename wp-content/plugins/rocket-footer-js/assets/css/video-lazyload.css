@@ -1,0 +1,155 @@
+[data-lazy-video-embed-container] {
+    text-align: center;
+    margin: auto;
+    position: relative;
+    cursor: pointer;
+    max-width: 100%;
+}
+
+[data-lazy-video-embed-container].loading-container {
+    background-color: black;
+}
+
+[data-lazy-video-embed-container] img {
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 0;
+    display: block;
+    position: static;
+    z-index: 0;
+    cursor: pointer;
+}
+
+[data-lazy-video-embed-container] iframe {
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+[data-lazy-video-embed-container] .play {
+    background: black;
+    border-radius: 50% / 10%;
+    color: #FFFFFF;
+    font-size: 2em; /* change this to change size */
+    height: 3em;
+    margin: auto;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    text-indent: 0.1em;
+    transition: all 150ms ease-out;
+    width: 4em;
+    opacity: 0.8;
+    z-index: 9;
+    max-width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+[data-lazy-video-embed-container] .play:hover {
+    background: red;
+    opacity: 1;
+}
+
+[data-lazy-video-embed-container] .play::before {
+    background: inherit;
+    border-radius: 5% / 50%;
+    bottom: 9%;
+    content: "";
+    left: -5%;
+    position: absolute;
+    right: -5%;
+    top: 9%;
+    z-index: 9;
+}
+
+[data-lazy-video-embed-container] .play::after {
+    border-style: solid;
+    border-width: 1em 0 1em 1.732em;
+    border-color: transparent transparent transparent rgba(255, 255, 255, 0.75);
+    content: ' ';
+    font-size: 0.75em;
+    height: 0;
+    margin: -1em 0 0 -0.75em;
+    top: 50%;
+    position: absolute;
+    width: 0;
+    z-index: 9;
+}
+
+[data-lazy-video-embed-container] .loading, .elementor-fit-aspect-ratio .loading {
+    display: inline-block;
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+    max-width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+[data-lazy-video-embed-container] .loading div, .elementor-fit-aspect-ratio .loading div {
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    margin: 6px;
+    border: 6px solid #fff;
+    border-radius: 50%;
+    animation: loading-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+    border-color: #fff transparent transparent transparent;
+}
+
+[data-lazy-video-embed-container] .loading div:nth-child(1) {
+    animation-delay: -0.45s;
+}
+
+[data-lazy-video-embed-container] .loading div:nth-child(2) {
+    animation-delay: -0.3s;
+}
+
+[data-lazy-video-embed-container] .loading div:nth-child(3) {
+    animation-delay: -0.15s;
+}
+
+.lazyloaded-video {
+    max-width: 100%;
+}
+
+@keyframes loading-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Visual Composer Compatibility */
+
+.wpb_text_column :last-child [data-lazy-video-embed-container] .play {
+    margin-bottom: auto !important;
+}
+
+.wpb_text_column [data-lazy-video-embed-container] img {
+    position: static;
+}
+
+/* Avada Fusion Compatibility */
+
+.fusion-video [data-lazy-video-embed-container] img {
+    position: static;
+}
